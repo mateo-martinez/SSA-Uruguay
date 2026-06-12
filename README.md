@@ -214,4 +214,4 @@ Este software se provee como herramienta de **conciencia situacional y triaje**.
 
 ## Licencia
 
-_Pendiente de definir por el autor (sugerencia: MIT o Apache-2.0 para el código; los datos embebidos conservan sus licencias de origen)._
+MIT
